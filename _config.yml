@@ -1,0 +1,14 @@
+team:
+  name: "Sourcing Hackathon"
+  base:
+    location: "White Feather,Bengaluru Karnataka India"
+battle:
+  cry: "Grandmaster Challenge"
+flag:
+  background: black
+  color: goldenrod
+  highlight:orange
+font:
+  family: Helvetica
+other_site:
+  url: bit.ly/help_me_find_a_job
