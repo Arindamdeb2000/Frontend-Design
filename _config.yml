@@ -7,7 +7,7 @@ battle:
 flag:
   background: black
   color: goldenrod
-  highlight:orange
+  highlight:
 font:
   family: Helvetica
 other_site:
